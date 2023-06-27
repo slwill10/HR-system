@@ -8,22 +8,6 @@ MySQL instalado e em execução na porta 52056
 Uma IDE Java de sua preferência (por exemplo, Eclipse, IntelliJ IDEA, VS Code com extensões Java)
 Git (opcional, caso queira clonar o repositório)
 
-# Configuração do Banco de Dados
-Certifique-se de ter o MySQL instalado e em execução na porta 52056. Você pode modificar essa porta, se preferir, atualizando as configurações de conexão no arquivo application.properties do projeto.
-
-Crie um banco de dados no MySQL usando o seguinte comando:
-
-sql
-Copy code
-CREATE DATABASE nomedobanco;
-Atualize as configurações de conexão no arquivo src/main/resources/application.properties com as informações do seu banco de dados:
-
-bash
-Copy code
-spring.datasource.url=jdbc:mysql://localhost:52056/nomedobanco
-spring.datasource.username=seuusuario
-spring.datasource.password=suasenha
-
 # Funcionalidades
 Nesta etapa do projeto, estamos desenvolvendo as seguintes funcionalidades:
 
