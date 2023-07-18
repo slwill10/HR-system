@@ -1,5 +1,5 @@
 ![vaga_cadastradas](https://github.com/slwill10/HR-system/assets/109486547/2eda108e-2b63-4436-a9da-4c7a2592073a)
-![capa](https://github.com/slwill10/HR-system/assets/109486547/39df6683-39da-4c04-bb52-f31dc0751b8e)
+![Home](https://github.com/slwill10/HR-system/assets/109486547/c075a985-7830-40e4-8fff-bf8e5fe69285)
 ![cadastro_de_vaga](https://github.com/slwill10/HR-system/assets/109486547/c029f956-1119-424f-bb89-501710602661)
 
 
