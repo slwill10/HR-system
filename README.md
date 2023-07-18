@@ -1,7 +1,4 @@
-![vaga_cadastradas](https://github.com/slwill10/HR-system/assets/109486547/2eda108e-2b63-4436-a9da-4c7a2592073a)
 ![Home](https://github.com/slwill10/HR-system/assets/109486547/c075a985-7830-40e4-8fff-bf8e5fe69285)
-![cadastro_de_vaga](https://github.com/slwill10/HR-system/assets/109486547/c029f956-1119-424f-bb89-501710602661)
-
 
 # Sistema de RH - Construção de um Sistema de RH
 Este é um projeto Java Spring Boot para a construção de um sistema de Recursos Humanos (RH). Nesta etapa, estamos desenvolvendo as funcionalidades de Vagas e Candidatos. Este Readme corresponde à Aula 01 do projeto.
