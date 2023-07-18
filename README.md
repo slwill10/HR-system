@@ -57,3 +57,6 @@ Este projeto está aberto a contribuições. Se você quiser adicionar recursos,
 
 # Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+# OBS 
+Ser houver problemas com o arquivo xml, é só atualizar o projeto!!!
